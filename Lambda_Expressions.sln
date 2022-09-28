@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lambda_Expressions", "Lambda_Expressions\Lambda_Expressions.pyproj", "{DEBF421C-003D-4B35-8429-342C5B5B50F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBF421C-003D-4B35-8429-342C5B5B50F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBF421C-003D-4B35-8429-342C5B5B50F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84422DBA-050A-4786-AF44-6C7A082FDC4E}
+	EndGlobalSection
+EndGlobal
